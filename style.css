@@ -1,0 +1,55 @@
+*{
+ margin: px;
+ padding: px;
+}
+
+
+
+#globe{
+	height:100px;
+	width:100px;
+}
+#header1 {
+	
+	display:inline-block;
+}
+.header h2{
+	background:#4E81AC;
+	color: white;
+	height:50px;
+	text-align: 
+}
+
+
+#home{
+
+width:20px;
+height:20px;
+}
+
+
+
+#mainpage{
+min-height: 475px;
+ width: 685px;
+ display: inline-block;
+ margin: 15px 10px;
+ padding: 5px;
+ vertical-align: top;
+}
+
+#sidebar{
+width:250px;
+min-height: 250px;
+display: inline-block;
+margin:20px;
+}
+
+#ad{
+	background-image:"images\ad_background.png";
+}
+
+#homebutton{
+	width:10px;
+	height:20px;
+}
